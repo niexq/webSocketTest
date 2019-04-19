@@ -1,0 +1,12 @@
+.DS_STORE
+*.log
+.project
+node_modules
+
+.idea/
+.sonar/
+.vscode/
+/dist/
+yarn.lock
+npm-debug.log*
+dist/
